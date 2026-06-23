@@ -15,9 +15,11 @@ This is a simple Tic Tac Toe game developed in C.
    game
 
 ## 📌 Features
-- 2 Player game
-- Simple CLI interface
-- Win & Draw detection
+- Two-player gameplay
+- Input validation
+- Win detection
+- Draw detection
+- Command-line interface
 
 ## 📷 Screenshot
 ![Game](Screenshot.png)
