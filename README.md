@@ -17,3 +17,6 @@ This is a simple Tic Tac Toe game developed in C.
 - 2 Player game
 - Simple CLI interface
 - Win & Draw detection
+
+## 📷 Screenshot
+![Game](Screenshot 2026-06-23 105923.png)
