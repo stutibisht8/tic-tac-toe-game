@@ -19,4 +19,4 @@ This is a simple Tic Tac Toe game developed in C.
 - Win & Draw detection
 
 ## 📷 Screenshot
-![Game](Screenshot 2026-06-23 105923.png)
+![Game](Screenshot.png)
