@@ -1,3 +1,4 @@
+Developed by STUTI BISHT
 # Tic Tac Toe Game (C Language)
 
 This is a simple Tic Tac Toe game developed in C.
